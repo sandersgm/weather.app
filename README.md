@@ -1,1 +1,1 @@
-# This weather app allows you to put your age, name, and favorite weather. Once summited a text is going to come back with a special message for you! Just type in the information for the setup.
+# This weather app allows you to put your age, name, and favorite weather. Once summited a text is going to come back with a special message for you! Just type in the information for the setup. Enjoy :)
